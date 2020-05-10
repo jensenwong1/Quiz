@@ -7,3 +7,14 @@ Created basic outline of the quiz.
 
 Added styling to question box and answer buttons
 
+
+Created front of the quiz.
+
+![startpage](/images/start.png)
+
+
+Added functionality with questions after hitting start.
+
+![questions](/images/questions.png)
+
+
